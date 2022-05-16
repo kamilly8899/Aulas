@@ -1,0 +1,13 @@
+LISTAS armazenam multiplos objetos em uma unica variavel
+cada objwto tem um indice, que indica sua posiçao dentro da lista]
+o indice refere-se ao primeiro elemento de uma 
+OPERAÇÊS
+A funçâo len() informa a quantidade de objetos de uma linha 
+#lista=[8, "maria" ,true,-5,6] #cria uma lista com quatro objetos
+print(len(lista) #imprimir 4
+a funçao list() altera o tipo de um objeto para list e tambem pára criar uma nova lista
+#minhalista = lista ((45, "ola", 6.21))3 crie uma lista com tres objetos
+print (minhalista) #imprime [45,3"ola", 6,21]
+#o priemrio objeto tem como indice [0]
+seja a lista minhalista criada pelo codigo abaixo:
+
